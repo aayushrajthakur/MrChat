@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596329013052",
+    "project_id": "mrchat-a0798",
+    "storage_bucket": "mrchat-a0798.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596329013052:android:1189d48a64af380a024839",
+        "android_client_info": {
+          "package_name": "com.example.mrchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfYhUttE-dsDw1uT95nWB5o0C4etTtGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
